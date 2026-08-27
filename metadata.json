@@ -1,0 +1,7 @@
+{
+  "name": "BIS Sahayak AI",
+  "description": "A document-grounded, citation-first AI assistant for understanding Indian Standards, BIS certification schemes, and services.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

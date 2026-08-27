@@ -1,0 +1,167 @@
+[
+  {
+    "id": "is-14543-packaged-water",
+    "isNumber": "IS 14543:2024",
+    "title": "Packaged Drinking Water (Other than Packaged Natural Mineral Water) — Specification",
+    "category": "Food & Agriculture / Drinking Water",
+    "scopeAndSummary": "IS 14543 specifies mandatory safety and hygiene requirements for processing, filling, and packaging potable water in hermetically sealed containers (20L jars, 1L bottles, pouches). It defines limits for microbiological pathogens, heavy metals, physical turbidity, and requires mandatory ISI certification prior to commercial sale.",
+    "certificationScheme": "Scheme I (ISI Mark) - Compulsory (Mandatory QCO)",
+    "testingAndLabRequirements": "Requires in-house microbiology testing facility (E. coli, coliform, yeast/mould, Pseudomonas aeruginosa) and chemistry lab (pH, TDS, lead, arsenic, pesticide residues). Samples must be tested in BIS-recognized laboratories (LRS) before granting license (CM/L).",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/14543",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-10500-drinking-water",
+    "isNumber": "IS 10500:2012",
+    "title": "Drinking Water Specification (Piped & Potable Water Supply)",
+    "category": "Public Health & Environment / Water Quality",
+    "scopeAndSummary": "IS 10500 is the national benchmark specification for potable piped water, municipal supplies, and community tap sources across India. It defines two-tier thresholds: 'Acceptable Limits' and 'Permissible Limits in absence of alternate source' for 64 physical, chemical, and microbiological parameters.",
+    "certificationScheme": "National Benchmark Standard (Voluntary for utilities / Reference standard for laboratory testing)",
+    "testingAndLabRequirements": "Comprehensive test panel covering organoleptic parameters (TDS max 500 mg/L acceptable, pH 6.5-8.5), heavy metals (lead < 0.01 mg/L, arsenic < 0.01 mg/L), and microbiological absence of coliforms in 100 mL sample. Tested by BIS Central Laboratory, NABL accredited and state public health labs.",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/10500",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-269-opc-cement",
+    "isNumber": "IS 269:2015",
+    "title": "Ordinary Portland Cement (OPC 33, 43, and 53 Grades) — Specification",
+    "category": "Civil Engineering / Cement & Concrete",
+    "scopeAndSummary": "IS 269 specifies physical, chemical, and strength criteria for 33 Grade, 43 Grade, and 53 Grade Ordinary Portland Cement used in heavy structural construction, bridges, and pre-cast concrete. It governs Blaine fineness, initial/final setting time, sound expansion, and compressive strength.",
+    "certificationScheme": "Scheme I (ISI Mark) - Compulsory (Cement Quality Control Order)",
+    "testingAndLabRequirements": "Blaine air permeability apparatus for fineness (min 225 m2/kg), Vicat apparatus for setting times (initial min 30 min, final max 600 min), Le-Chatelier & Autoclave soundness tests, and 72-hour, 168-hour, and 672-hour mortar cube compressive testing.",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/269",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-1489-ppc-cement",
+    "isNumber": "IS 1489:2015",
+    "title": "Portland Pozzolana Cement (Part 1: Fly Ash Based & Part 2: Calcined Clay Based) — Specification",
+    "category": "Civil Engineering / Cement & Concrete",
+    "scopeAndSummary": "IS 1489 covers Portland Pozzolana Cement produced either by intergrinding Portland cement clinker and pozzolana (fly ash or calcined clay) or by intimately blending OPC and fine pozzolana. PPC provides superior resistance to chemical attack and lower heat of hydration.",
+    "certificationScheme": "Scheme I (ISI Mark) - Compulsory (Cement Quality Control Order)",
+    "testingAndLabRequirements": "Pozzolanic activity index testing, fineness (min 300 m2/kg), sound expansion limits, drying shrinkage, and mandatory daily batch testing in plant laboratories under BIS Scheme of Testing and Inspection (STI).",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/1489",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-1786-tmt-steel-bars",
+    "isNumber": "IS 1786:2008",
+    "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement (TMT Steel Bars)",
+    "category": "Metallurgical Engineering / Steel & Iron",
+    "scopeAndSummary": "IS 1786 defines requirements for thermo-mechanically treated (TMT) deformed steel re-bars used for reinforced cement concrete (RCC) structures across India. It categorizes strength grades Fe 415, Fe 415D, Fe 500, Fe 500D, Fe 550, Fe 550D, and Fe 600, with 'D' designating high seismic ductility.",
+    "certificationScheme": "Scheme I (ISI Mark) - Compulsory (Steel & Steel Products QCO)",
+    "testingAndLabRequirements": "Universal Testing Machine (UTM) for proof stress/yield strength, ultimate tensile strength (UTS/YS ratio), percentage elongation, 180-degree bend and reverse bend tests, and chemical spectroscopy (carbon, sulfur, phosphorus max limits).",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/1786",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-13252-it-equipment-crs",
+    "isNumber": "IS 13252 (Part 1):2010",
+    "title": "Information Technology Equipment — Safety (General Requirements)",
+    "category": "Electronics & Information Technology",
+    "scopeAndSummary": "IS 13252 (Part 1) is the core standard under the Compulsory Registration Scheme (CRS) for consumer IT equipment including laptops, tablets, printers, mobile phones, power banks, and servers. It harmonizes with IEC 60950-1 to safeguard against electric shock, fire hazards, and excessive radiation.",
+    "certificationScheme": "Compulsory Registration Scheme (CRS) - Scheme II (MeitY & BIS Mandate)",
+    "testingAndLabRequirements": "Testing must be conducted at BIS-recognized laboratories (CRS portal). Test reports evaluate dielectric strength, insulation resistance, touch current, thermal temperature rise under fault conditions, creepage distances, and flammability ratings.",
+    "officialPortalUrl": "https://www.crsbis.in",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-9873-safety-of-toys",
+    "isNumber": "IS 9873 (Part 1 to 9)",
+    "title": "Safety of Toys — Mechanical, Flammability, Chemical & Electrical Safety",
+    "category": "Consumer Products & Safety / Toys",
+    "scopeAndSummary": "IS 9873 is the multi-part mandatory safety standard for all toys intended for children under 14 years. It strictly regulates mechanical physical hazards (choking from small parts, sharp edges, drop tests), flammability, migration of 8 toxic heavy metals (lead, antimony, arsenic, barium, cadmium, chromium, mercury, selenium), and phthalate plasticizers.",
+    "certificationScheme": "Scheme I (ISI Mark) - Compulsory (Toys Quality Control Order)",
+    "testingAndLabRequirements": "Impact and torque testing rigs, sharp point testers, drop test machines, and Inductively Coupled Plasma Mass Spectrometry (ICP-MS) for heavy metal leach testing in BIS recognized labs. Both domestic manufacturers and foreign importers must hold valid ISI licenses.",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/9873",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-1417-gold-hallmarking",
+    "isNumber": "IS 1417:2016",
+    "title": "Gold and Gold Alloys, Silver and Silver Alloys — Jewellery / Artefacts — Fineness and Marking",
+    "category": "Precious Metals / Hallmarking",
+    "scopeAndSummary": "IS 1417 specifies the fineness grades and mandatory hallmarking protocol for gold jewellery sold in India. Under the mandatory Hallmarking order, all gold items must carry three mandatory marks: (1) BIS Standard Logo, (2) Purity in Carats & Fineness (e.g., 22K916, 18K750, 14K585), and (3) a unique 6-digit alphanumeric Hallmarking Unique Identification (HUID) code.",
+    "certificationScheme": "Hallmarking Scheme - Compulsory in notified districts across India",
+    "testingAndLabRequirements": "Fire Assay (cupellation) and X-ray Fluorescence (XRF) testing at BIS-recognized Assaying and Hallmarking Centres (AHC). Consumers can verify any 6-digit HUID code live on the BIS Care Mobile App.",
+    "officialPortalUrl": "https://www.bis.gov.in/hallmarking-overview/",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "bis-services-kys-guide",
+    "isNumber": "BIS Services Guide (KYS & e-BIS)",
+    "title": "How to Search Standards using 'Know Your Standard' (KYS) & e-BIS Portal",
+    "category": "BIS Digital Portals & Citizen Services",
+    "scopeAndSummary": "The 'Know Your Standard' (KYS) service on Manakonline (manakonline.in) allows users to search all published Indian Standards by entering standard numbers (e.g. 14543, 1786) or keywords (e.g. 'cement', 'toys'). It provides document status (active/superseded), list of amendments, linked Product Manuals, and Schemes of Testing and Inspection (STI).",
+    "certificationScheme": "Digital Public Infrastructure / e-Governance Portal",
+    "testingAndLabRequirements": "Access is completely free on the public web. Users can view standard abstracts, find licensed manufacturers holding valid CM/L licenses, and download Product Manuals for testing guidelines.",
+    "officialPortalUrl": "https://www.manakonline.in",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-4151-protective-helmets",
+    "isNumber": "IS 4151:2015",
+    "title": "Protective Helmets for Two-Wheeler Riders — Specification",
+    "category": "Automotive & Road Safety",
+    "scopeAndSummary": "IS 4151 specifies mandatory performance requirements for helmets worn by riders and pillions of two-wheeled motor vehicles. It tests shock absorption under high and low temperatures, retention strap strength, peripheral vision angles, and penetration resistance to protect human life.",
+    "certificationScheme": "Scheme I (ISI Mark) - Compulsory (Road Safety & Helmet QCO)",
+    "testingAndLabRequirements": "Impact absorption test rig (drop testing onto flat and hemispherical anvils), dynamic retention test, chin-strap slippage test, and visual inspection of embossed ISI logo with manufacturer's CM/L number.",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/4151",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-1293-plugs-and-sockets",
+    "isNumber": "IS 1293:2019",
+    "title": "Plugs and Socket-Outlets of Rated Voltage up to and including 250 V and Rated Current up to and including 16 A — Specification",
+    "category": "Electrotechnical / Electrical Safety",
+    "scopeAndSummary": "IS 1293 regulates standard plugs and socket-outlets for residential and commercial electrical connections up to 250V / 16A (including 6A and 16A configurations). It enforces mechanical shutter safety, terminal heating limits, insulation resistance, and anti-shock protections under mandatory QCOs.",
+    "certificationScheme": "Scheme I (ISI Mark) - Compulsory (Electrical Accessories QCO)",
+    "testingAndLabRequirements": "High-voltage endurance testing, temperature rise test at rated current, withdrawal force gauge testing, mechanical strength tumbling barrel tests, and resistance to tracking in humid chambers.",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/1293",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-15844-footwear-safety",
+    "isNumber": "IS 15844:2010",
+    "title": "Leather Safety Footwear & Sports Footwear — Safety Specifications",
+    "category": "Consumer Goods / Footwear",
+    "scopeAndSummary": "IS 15844 and linked standards (IS 15844 Part 1 and Part 2) cover sports shoes, safety shoes with steel toe caps, and casual leather footwear. The Footwear QCO mandates BIS certification to guarantee slip resistance, sole flex resistance, upper leather tear strength, and non-toxicity.",
+    "certificationScheme": "Scheme I (ISI Mark) - Compulsory (Footwear Quality Control Order)",
+    "testingAndLabRequirements": "Bennewart flexing machine for sole durability, impact tester (200 Joules) for safety toe caps, upper-to-sole adhesion peeling tester, and hazardous chemical screening (azo dyes, chromium VI).",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/15844",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-4984-hdpe-pipes",
+    "isNumber": "IS 4984:2016",
+    "title": "High Density Polyethylene (HDPE) Pipes for Water Supply — Specification",
+    "category": "Chemicals & Plastics / Water Infrastructure",
+    "scopeAndSummary": "IS 4984 governs HDPE pipes used for potable water mains, rural water distribution (Jal Jeevan Mission), and industrial fluid transport. It defines pressure ratings (PN 2.5 to PN 20), material grades (PE 63, PE 80, PE 100), hydrostatic pressure tolerance, and carbon black dispersion.",
+    "certificationScheme": "Scheme I (ISI Mark) - Compulsory (Pipes Quality Control Order)",
+    "testingAndLabRequirements": "Hydrostatic pressure testing at 20°C (100h) and 80°C (165h & 1000h), Melt Flow Rate (MFR) testing, oxidation induction time (OIT), carbon black content determination, and longitudinal reversion tests.",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/4984",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "is-302-household-electrical",
+    "isNumber": "IS 302 (Part 1):2008",
+    "title": "Safety of Household and Similar Electrical Appliances — General Requirements",
+    "category": "Electrotechnical / Home Appliances",
+    "scopeAndSummary": "IS 302 (Part 1) alongside product-specific Part 2s (electric irons, water heaters/geysers, room heaters, immersion rods) ensures home electrical appliances are shock-proof, fire-retardant, and thermally regulated under mandatory ISI certification.",
+    "certificationScheme": "Scheme I (ISI Mark) - Compulsory (Household Electrical Appliances QCO)",
+    "testingAndLabRequirements": "High voltage dielectric breakdown test (1500V AC), leakage current measurement (< 0.75 mA), cord anchorage pull tests, flammability glow-wire tests (750°C/850°C), and abnormal thermal cut-off validation.",
+    "officialPortalUrl": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/indian_standards/isdetails/302",
+    "lastVerified": "2026-08-25"
+  },
+  {
+    "id": "bis-lrs-testing-labs",
+    "isNumber": "BIS LRS (Laboratory Network)",
+    "title": "BIS Laboratory Recognition Scheme (LRS) & Laboratory Network",
+    "category": "Laboratories & Conformity Assessment",
+    "scopeAndSummary": "The Laboratory Recognition Scheme (LRS) governs accreditation and recognition of commercial, third-party, and state laboratories across India for conformity testing against Indian Standards. Only test reports from BIS Central/Regional Labs and recognized LRS labs are valid for grant and renewal of ISI and CRS licenses.",
+    "certificationScheme": "Scheme V (Laboratory Recognition) - ISO/IEC 17025 Compliant",
+    "testingAndLabRequirements": "Laboratories must be NABL accredited to ISO/IEC 17025, undergo regular proficiency testing (PT) programs, and participate in unannounced BIS surveillance audits.",
+    "officialPortalUrl": "https://www.bis.gov.in/laboratory-overview/",
+    "lastVerified": "2026-08-25"
+  }
+]
